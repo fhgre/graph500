@@ -1,0 +1,136 @@
+SCALE:                          11
+edgefactor:                     32
+NBFS:                           64
+graph_generation:               0.0209837
+num_mpi_processes:              8
+construction_time:              0.00444031
+bfs  min_time:                  6.79493e-05
+bfs  firstquartile_time:        0.00071013
+bfs  median_time:               0.000724196
+bfs  thirdquartile_time:        0.000739813
+bfs  max_time:                  0.00077486
+bfs  mean_time:                 0.000716731
+bfs  stddev_time:               8.48539e-05
+min_nedge:                      1
+firstquartile_nedge:            65198
+median_nedge:                   65198
+thirdquartile_nedge:            65198
+max_nedge:                      65198
+mean_nedge:                     64179.296875
+stddev_nedge:                   8149.625
+bfs  min_TEPS:                  14716.9
+bfs  firstquartile_TEPS:        8.78587e+07
+bfs  median_TEPS:               8.99984e+07
+bfs  thirdquartile_TEPS:        9.1719e+07
+bfs  max_TEPS:                  9.39403e+07
+bfs  harmonic_mean_TEPS:     !  932240
+bfs  harmonic_stddev_TEPS:      929842
+bfs  min_validate:              0.000850439
+bfs  firstquartile_validate:    0.00159764
+bfs  median_validate:           0.00161386
+bfs  thirdquartile_validate:    0.00163984
+bfs  max_validate:              0.00207281
+bfs  mean_validate:             0.00161362
+bfs  stddev_validate:           0.000115562
+SCALE:                          11
+edgefactor:                     32
+NBFS:                           64
+graph_generation:               0.0207646
+num_mpi_processes:              8
+construction_time:              0.00445175
+bfs  min_time:                  4.57764e-05
+bfs  firstquartile_time:        0.000692964
+bfs  median_time:               0.000710368
+bfs  thirdquartile_time:        0.0007267
+bfs  max_time:                  0.000782013
+bfs  mean_time:                 0.000702459
+bfs  stddev_time:               8.7033e-05
+min_nedge:                      1
+firstquartile_nedge:            65198
+median_nedge:                   65198
+thirdquartile_nedge:            65198
+max_nedge:                      65198
+mean_nedge:                     64179.296875
+stddev_nedge:                   8149.625
+bfs  min_TEPS:                  21845.3
+bfs  firstquartile_TEPS:        8.9527e+07
+bfs  median_TEPS:               9.16422e+07
+bfs  thirdquartile_TEPS:        9.37792e+07
+bfs  max_TEPS:                  9.62549e+07
+bfs  harmonic_mean_TEPS:     !  1.37737e+06
+bfs  harmonic_stddev_TEPS:      1.36736e+06
+bfs  min_validate:              0.000836372
+bfs  firstquartile_validate:    0.00158417
+bfs  median_validate:           0.00160611
+bfs  thirdquartile_validate:    0.00162411
+bfs  max_validate:              0.00169802
+bfs  mean_validate:             0.00159561
+bfs  stddev_validate:           0.000101535
+SCALE:                          11
+edgefactor:                     32
+NBFS:                           64
+graph_generation:               0.0193553
+num_mpi_processes:              8
+construction_time:              0.0044241
+bfs  min_time:                  4.60148e-05
+bfs  firstquartile_time:        0.00069344
+bfs  median_time:               0.000705004
+bfs  thirdquartile_time:        0.000719666
+bfs  max_time:                  0.000789642
+bfs  mean_time:                 0.000698321
+bfs  stddev_time:               8.56984e-05
+min_nedge:                      1
+firstquartile_nedge:            65198
+median_nedge:                   65198
+thirdquartile_nedge:            65198
+max_nedge:                      65198
+mean_nedge:                     64179.296875
+stddev_nedge:                   8149.625
+bfs  min_TEPS:                  21732.1
+bfs  firstquartile_TEPS:        9.043e+07
+bfs  median_TEPS:               9.24633e+07
+bfs  thirdquartile_TEPS:        9.39887e+07
+bfs  max_TEPS:                  9.68001e+07
+bfs  harmonic_mean_TEPS:     !  1.37046e+06
+bfs  harmonic_stddev_TEPS:      1.36072e+06
+bfs  min_validate:              0.000867128
+bfs  firstquartile_validate:    0.00159979
+bfs  median_validate:           0.00161219
+bfs  thirdquartile_validate:    0.00162804
+bfs  max_validate:              0.00169325
+bfs  mean_validate:             0.00160664
+bfs  stddev_validate:           9.78081e-05
+SCALE:                          11
+edgefactor:                     32
+NBFS:                           64
+graph_generation:               0.0228565
+num_mpi_processes:              8
+construction_time:              0.00439286
+bfs  min_time:                  4.52995e-05
+bfs  firstquartile_time:        0.00068891
+bfs  median_time:               0.000701904
+bfs  thirdquartile_time:        0.000712872
+bfs  max_time:                  0.000764608
+bfs  mean_time:                 0.000695195
+bfs  stddev_time:               8.49123e-05
+min_nedge:                      1
+firstquartile_nedge:            65198
+median_nedge:                   65198
+thirdquartile_nedge:            65198
+max_nedge:                      65198
+mean_nedge:                     64179.296875
+stddev_nedge:                   8149.625
+bfs  min_TEPS:                  22075.3
+bfs  firstquartile_TEPS:        9.11079e+07
+bfs  median_TEPS:               9.27298e+07
+bfs  thirdquartile_TEPS:        9.46229e+07
+bfs  max_TEPS:                  9.64586e+07
+bfs  harmonic_mean_TEPS:     !  1.39187e+06
+bfs  harmonic_stddev_TEPS:      1.38175e+06
+bfs  min_validate:              0.000837088
+bfs  firstquartile_validate:    0.0015856
+bfs  median_validate:           0.00159907
+bfs  thirdquartile_validate:    0.00162017
+bfs  max_validate:              0.00166965
+bfs  mean_validate:             0.00159187
+bfs  stddev_validate:           9.94096e-05
